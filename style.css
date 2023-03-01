@@ -159,7 +159,7 @@ img {
 	.rating-card {
 		flex-direction: row;
 		gap: 25px;
-		width: 88%;
+		width: 89%;
 	}
 
 	.rating-card:nth-of-type(1) {
